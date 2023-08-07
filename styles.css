@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(21, 12, 59);
+}
+button{
+    border-radius: 50px;
+    font-family: 'Roboto Condensed', sans-serif;
+ font-size: 44px;
+ background-color: rgb(86, 79, 93);
+}
+
